@@ -1,0 +1,46 @@
+
+     ***************************************
+     ****  CANION  Version 3.5 10/2016  ****
+     ***************************************
+
+
+  LIS  : canion/KIO                        DAT  : output/DNA-nw-out.cdi           
+  AXFRM: DNA-nw-averaged                   SOLUT: DNA-nw                          
+  prop :                                   TYPE : KIO                             
+  seq  : *                                 seqin:                                 
+
+  sris  :     3.38  stwi  :    34.50  GRID  :     0.50  alow  :     0.00
+  ahig  :   360.00  dlow  :     1.00  dhig  :   500.00  rlow  :     0.00
+  RHIG  :    40.00  clim  :     0.40  pmin  :  -500.00  pmax  :   500.00
+
+  itst  :        0  itnd  :        0  itdel :        1  istep :        0  iwin  :        0
+
+  rmsf  :        F  circ  :        F  series:        F  dbrac :        F  ins   :        T
+  outs  :        T  acvol :        F
+
+
+  Preselect = G      A      G      A      T      G      C      T      A      A      
+              |^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^
+
+              C      C      C      T      G      A      T      C      G      C      
+              |^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^
+
+              T      G      A      T      T      C      C      T      T      G      
+              |^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^|^^^^^^
+
+              G      A      C
+              |^^^^^^|^^^^^^|
+
+  nlev=  33 nst=   2 nion=  13
+  Seq: GAGATGCTAACCCTGATCGCTGATTCCTTGGAC
+
+  Hdim=     192     60     72
+  Cdim=     274    274    345
+  Csiz=   137.3  137.4  172.9
+
+  Inaccessible histogram elements =          0
+
+   Vsolv= 293873.2 Vsolu=  14219.0
+   Snaps=   225000 <Ions>=   60.85 <Molarity>=    0.34 max_M=    148.1 min_M=      0.0
+
+  Time for run:    29.7 sec
